@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Front+End+Developer;Python+Programmer%20|%20UI+Designer%20;Content%20Creator%20|+Blogger&center=true&width=500&height=50"></a>
 </p>
@@ -49,7 +49,5 @@ He like to **create and contribute** to open source projects. In his free time, 
 - [String Manipulation In Python : Part 1](https://adityacodes.hashnode.dev/string-manipulation-in-python-part-1)
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=algolia&hide_border=false) 
 
 
